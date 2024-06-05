@@ -13,4 +13,4 @@ RUN npm install
 COPY . .
 
 # Укажите команду для запуска Strapi в режиме разработки
-CMD ["strapi", "develop"]
+CMD ["strapi", "npm run develop"]
