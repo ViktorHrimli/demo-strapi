@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_ddd_awdawds",
+  "info": {
+    "displayName": "awdawd"
+  },
+  "options": {},
+  "attributes": {
+    "tetet": {
+      "type": "email"
+    }
+  }
+}
